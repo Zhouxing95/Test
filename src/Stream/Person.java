@@ -12,7 +12,7 @@ public class Person {
     //地区
     private String area;
 
-    public Person(String name, int salary, int age,String sex,String area) {
+    public Person(String name, int salary, int age, String sex, String area) {
         this.name = name;
         this.salary = salary;
         this.age = age;
